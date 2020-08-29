@@ -1,0 +1,41 @@
+.data{
+    margin-top: 2rem;
+}
+.expand_data.ant-table-thead{
+    margin-top: -15rem;
+    background-color: tomato;
+}
+.created_date{
+    margin-top: 15rem;
+}
+.created_by{
+margin-top: 15rem;
+}
+.approvals{
+    margin-top: -11rem;
+}
+.approved-by{
+    margin-top: 8rem;
+    text-decoration: red;
+}
+.approver-detail{
+text-decoration: red;
+}
+.expand_data{
+    margin-top: -7.5rem;
+    margin-left: 15rem;
+}
+.ant-table-expanded-row.ant-table-expanded-row-level-1 {
+background:#DBDEE1;
+}
+.ant-table-thead > tr > th{
+background: none;
+border-bottom: none;
+}
+.ant-table-tbody > tr > td{
+border-bottom: none;
+}
+/* .ant-table table{
+    margin-top: -2rem;
+} */
+

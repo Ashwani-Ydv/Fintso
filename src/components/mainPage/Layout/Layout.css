@@ -1,0 +1,39 @@
+.layout{
+  width:100%;
+  height: 31px;
+  background: rgba(255, 255, 255, 0.2);
+  margin: 16px 24px 16px 0;
+  float: left;
+  /* margin-left: 5rem; */
+  margin-top:0rem;
+  
+}
+.nav{
+  text-decoration:red;
+}
+.log{
+  margin-left:53rem;
+  margin-top: -4rem;
+  margin-left: 89rem;
+}
+.emp{
+margin-left: 18rem;
+/* &:hover{color:#85929E;} */
+
+}
+.roles{
+  margin-left: 5rem;
+}
+.navHeader.ant-layout-header{
+padding: 0 0;
+}
+.ant-menu-horizontal > .ant-menu-item:hover, .ant-menu-horizontal > .ant-menu-submenu:hover, .ant-menu-horizontal > .ant-menu-item-active, .ant-menu-horizontal > .ant-menu-submenu-active, .ant-menu-horizontal > .ant-menu-item-open, .ant-menu-horizontal > .ant-menu-submenu-open, .ant-menu-horizontal > .ant-menu-item-selected, .ant-menu-horizontal > .ant-menu-submenu-selected{
+  color:#566573;
+  border-bottom: 3px solid #566573
+}
+.selection{
+background: #566573;
+}
+.ant-menu-horizontal > .ant-menu-item-selected > a{
+color: #566573;
+}
